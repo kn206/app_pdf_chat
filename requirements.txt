@@ -8,4 +8,3 @@ tiktoken
 openai
 langchain_openai==0.0.5
 faiss-cpu==1.7.4
-sss
