@@ -1,0 +1,11 @@
+langchain==0.1.4
+PyPDF2
+streamlit
+faiss-cpu
+streamlit-extras
+altair==4.0
+tiktoken
+openai
+langchain_openai==0.0.5
+faiss-cpu==1.7.4
+sss
